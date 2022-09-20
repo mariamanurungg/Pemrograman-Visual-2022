@@ -1,0 +1,17 @@
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\bin\Debug\net6.0-windows\Common_Integer_Math.exe
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\bin\Debug\net6.0-windows\Common_Integer_Math.deps.json
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\bin\Debug\net6.0-windows\Common_Integer_Math.runtimeconfig.json
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\bin\Debug\net6.0-windows\Common_Integer_Math.dll
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\bin\Debug\net6.0-windows\Common_Integer_Math.pdb
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\Common_Integer_Math.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\Common_Integer_Math.Form1.resources
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\Common_Integer_Math.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\Common_Integer_Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\Common_Integer_Math.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\Common_Integer_Math.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\Common_Integer_Math.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\Common_Integer_Math.dll
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\refint\Common_Integer_Math.dll
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\Common_Integer_Math.pdb
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\Common_Integer_Math.genruntimeconfig.cache
+C:\Users\Maria Manurung\source\repos\Common_Integer_Math\Common_Integer_Math\obj\Debug\net6.0-windows\ref\Common_Integer_Math.dll

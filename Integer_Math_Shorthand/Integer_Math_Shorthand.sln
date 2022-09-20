@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Integer_Math_Shorthand", "Integer_Math_Shorthand\Integer_Math_Shorthand.vbproj", "{A28BA7F0-C85D-4BF7-97BE-70AEDED495A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A28BA7F0-C85D-4BF7-97BE-70AEDED495A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28BA7F0-C85D-4BF7-97BE-70AEDED495A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28BA7F0-C85D-4BF7-97BE-70AEDED495A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28BA7F0-C85D-4BF7-97BE-70AEDED495A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5D2541-121D-468E-ACD8-D4F461A95B73}
+	EndGlobalSection
+EndGlobal

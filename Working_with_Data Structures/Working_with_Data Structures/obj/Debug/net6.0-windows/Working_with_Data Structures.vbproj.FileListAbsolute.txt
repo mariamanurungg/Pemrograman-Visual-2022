@@ -1,0 +1,7 @@
+C:\Users\Maria Manurung\source\repos\Working_with_Data Structures\Working_with_Data Structures\obj\Debug\net6.0-windows\Working_with_Data Structures.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Working_with_Data Structures\Working_with_Data Structures\obj\Debug\net6.0-windows\Working_with_Data_Structures.Form1.resources
+C:\Users\Maria Manurung\source\repos\Working_with_Data Structures\Working_with_Data Structures\obj\Debug\net6.0-windows\Working_with_Data Structures.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Working_with_Data Structures\Working_with_Data Structures\obj\Debug\net6.0-windows\Working_with_Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Working_with_Data Structures\Working_with_Data Structures\obj\Debug\net6.0-windows\Working_with_Data Structures.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Working_with_Data Structures\Working_with_Data Structures\obj\Debug\net6.0-windows\Working_with_Data Structures.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Working_with_Data Structures\Working_with_Data Structures\obj\Debug\net6.0-windows\Working_with_Data Structures.vbproj.CoreCompileInputs.cache

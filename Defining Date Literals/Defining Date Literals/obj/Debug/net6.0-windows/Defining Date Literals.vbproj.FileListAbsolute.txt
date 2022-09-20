@@ -1,0 +1,17 @@
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\bin\Debug\net6.0-windows\Defining Date Literals.exe
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\bin\Debug\net6.0-windows\Defining Date Literals.deps.json
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\bin\Debug\net6.0-windows\Defining Date Literals.runtimeconfig.json
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\bin\Debug\net6.0-windows\Defining Date Literals.dll
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\bin\Debug\net6.0-windows\Defining Date Literals.pdb
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\Defining Date Literals.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\Defining_Date_Literals.Form1.resources
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\Defining Date Literals.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\Defining Date Literals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\Defining Date Literals.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\Defining Date Literals.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\Defining Date Literals.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\Defining Date Literals.dll
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\refint\Defining Date Literals.dll
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\Defining Date Literals.pdb
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\Defining Date Literals.genruntimeconfig.cache
+C:\Users\Maria Manurung\source\repos\Defining Date Literals\Defining Date Literals\obj\Debug\net6.0-windows\ref\Defining Date Literals.dll

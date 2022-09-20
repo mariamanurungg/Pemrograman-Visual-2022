@@ -1,0 +1,17 @@
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\bin\Debug\net6.0-windows\Manipulating Dates.exe
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\bin\Debug\net6.0-windows\Manipulating Dates.deps.json
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\bin\Debug\net6.0-windows\Manipulating Dates.runtimeconfig.json
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\bin\Debug\net6.0-windows\Manipulating Dates.dll
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\bin\Debug\net6.0-windows\Manipulating Dates.pdb
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\Manipulating Dates.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\Manipulating_Dates.Form1.resources
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\Manipulating Dates.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\Manipulating Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\Manipulating Dates.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\Manipulating Dates.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\Manipulating Dates.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\Manipulating Dates.dll
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\refint\Manipulating Dates.dll
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\Manipulating Dates.pdb
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\Manipulating Dates.genruntimeconfig.cache
+C:\Users\Maria Manurung\source\repos\Manipulating Dates\Manipulating Dates\obj\Debug\net6.0-windows\ref\Manipulating Dates.dll

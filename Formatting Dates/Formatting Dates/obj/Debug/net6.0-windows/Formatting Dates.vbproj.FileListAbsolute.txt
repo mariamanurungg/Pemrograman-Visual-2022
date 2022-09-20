@@ -1,0 +1,17 @@
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\bin\Debug\net6.0-windows\Formatting Dates.exe
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\bin\Debug\net6.0-windows\Formatting Dates.deps.json
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\bin\Debug\net6.0-windows\Formatting Dates.runtimeconfig.json
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\bin\Debug\net6.0-windows\Formatting Dates.dll
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\bin\Debug\net6.0-windows\Formatting Dates.pdb
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\Formatting Dates.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\Formatting_Dates.Form1.resources
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\Formatting Dates.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\Formatting Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\Formatting Dates.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\Formatting Dates.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\Formatting Dates.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\Formatting Dates.dll
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\refint\Formatting Dates.dll
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\Formatting Dates.pdb
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\Formatting Dates.genruntimeconfig.cache
+C:\Users\Maria Manurung\source\repos\Formatting Dates\Formatting Dates\obj\Debug\net6.0-windows\ref\Formatting Dates.dll

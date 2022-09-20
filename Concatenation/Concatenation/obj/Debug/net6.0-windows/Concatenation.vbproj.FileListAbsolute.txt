@@ -1,0 +1,17 @@
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\bin\Debug\net6.0-windows\Concatenation.exe
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\bin\Debug\net6.0-windows\Concatenation.deps.json
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\bin\Debug\net6.0-windows\Concatenation.runtimeconfig.json
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\bin\Debug\net6.0-windows\Concatenation.dll
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\bin\Debug\net6.0-windows\Concatenation.pdb
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\Concatenation.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\Concatenation.Form1.resources
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\Concatenation.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\Concatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\Concatenation.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\Concatenation.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\Concatenation.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\Concatenation.dll
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\refint\Concatenation.dll
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\Concatenation.pdb
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\Concatenation.genruntimeconfig.cache
+C:\Users\Maria Manurung\source\repos\Concatenation\Concatenation\obj\Debug\net6.0-windows\ref\Concatenation.dll

@@ -1,0 +1,7 @@
+C:\Users\Maria Manurung\source\repos\Returning_the _Length of a String\Returning_the _Length of a String\obj\Debug\net6.0-windows\Returning_the _Length of a String.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Returning_the _Length of a String\Returning_the _Length of a String\obj\Debug\net6.0-windows\Returning_the__Length_of_a_String.Form1.resources
+C:\Users\Maria Manurung\source\repos\Returning_the _Length of a String\Returning_the _Length of a String\obj\Debug\net6.0-windows\Returning_the _Length of a String.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Returning_the _Length of a String\Returning_the _Length of a String\obj\Debug\net6.0-windows\Returning_the _Length of a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Returning_the _Length of a String\Returning_the _Length of a String\obj\Debug\net6.0-windows\Returning_the _Length of a String.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Returning_the _Length of a String\Returning_the _Length of a String\obj\Debug\net6.0-windows\Returning_the _Length of a String.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Returning_the _Length of a String\Returning_the _Length of a String\obj\Debug\net6.0-windows\Returning_the _Length of a String.vbproj.CoreCompileInputs.cache

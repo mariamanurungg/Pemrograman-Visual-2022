@@ -1,0 +1,17 @@
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\bin\Debug\net6.0-windows\Floating-Point Math.exe
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\bin\Debug\net6.0-windows\Floating-Point Math.deps.json
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\bin\Debug\net6.0-windows\Floating-Point Math.runtimeconfig.json
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\bin\Debug\net6.0-windows\Floating-Point Math.dll
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\bin\Debug\net6.0-windows\Floating-Point Math.pdb
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\Floating-Point Math.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\Floating_Point_Math.Form1.resources
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\Floating-Point Math.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\Floating-Point Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\Floating-Point Math.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\Floating-Point Math.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\Floating-Point Math.vbproj.CoreCompileInputs.cache
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\Floating-Point Math.dll
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\refint\Floating-Point Math.dll
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\Floating-Point Math.pdb
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\Floating-Point Math.genruntimeconfig.cache
+C:\Users\Maria Manurung\source\repos\Floating-Point Math\Floating-Point Math\obj\Debug\net6.0-windows\ref\Floating-Point Math.dll
