@@ -1,0 +1,7 @@
+C:\Users\Maria Manurung\source\repos\hello_world\hello_world\obj\Debug\net6.0-windows\hello_world.vbproj.AssemblyReference.cache
+C:\Users\Maria Manurung\source\repos\hello_world\hello_world\obj\Debug\net6.0-windows\hello_world.Form1.resources
+C:\Users\Maria Manurung\source\repos\hello_world\hello_world\obj\Debug\net6.0-windows\hello_world.vbproj.GenerateResource.cache
+C:\Users\Maria Manurung\source\repos\hello_world\hello_world\obj\Debug\net6.0-windows\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Manurung\source\repos\hello_world\hello_world\obj\Debug\net6.0-windows\hello_world.AssemblyInfoInputs.cache
+C:\Users\Maria Manurung\source\repos\hello_world\hello_world\obj\Debug\net6.0-windows\hello_world.AssemblyInfo.vb
+C:\Users\Maria Manurung\source\repos\hello_world\hello_world\obj\Debug\net6.0-windows\hello_world.vbproj.CoreCompileInputs.cache
